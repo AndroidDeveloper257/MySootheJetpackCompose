@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySootheJetpackCompose</string>
+    <string name="placeholder_search">Search</string>
+    <string name="mountain_1">1st mountain</string>
+    <string name="mountain_2">2nd mountain</string>
+    <string name="mountain_3">3rd mountain</string>
+    <string name="mountain_4">4th mountain</string>
+    <string name="mountain_5">5th mountain</string>
+    <string name="mountain_6">6th mountain</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="favorite_collections">Favorite collections</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>
